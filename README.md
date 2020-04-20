@@ -3,8 +3,8 @@
 
 :cloud:前端学习笔记，*HTML*、*CSS*、*JavaScript* 等等语言:heart:
 
-:e-mail:邮箱：<3392446642@qq.com>
-:computer:博客：<https://blog.csdn.net/cool99781>
+:e-mail:邮箱：<3392446642@qq.com><br>
+:computer:博客：<https://blog.csdn.net/cool99781><br>
 :cat:项目地址:<https://gitee.com/cc_wyh/Web-Note>
 
 ### :book:前言:book:
